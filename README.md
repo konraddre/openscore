@@ -4,7 +4,7 @@ AI-powered credit decisioning platform based on PSD2 Open Banking.
 
 ## Overview
 
-OpenScore transforms Open Banking transaction data into transparent credit scores (300-850). Every decision includes a feature-level reason breakdown, a plain-language explanation, and a tamper-evident audit record — built for automated-decision governance under PSD2, GDPR, and the EU AI Act.
+OpenScore transforms Open Banking transaction data into transparent credit scores (300-850). Every decision includes a feature-level reason breakdown, a plain-language explanation, and a tamper-evident audit record, built for automated-decision governance under PSD2, GDPR, and the EU AI Act.
 
 ## Features
 
