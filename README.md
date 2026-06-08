@@ -29,9 +29,7 @@ OpenScore transforms Open Banking transaction data into transparent credit score
 
 Built with PSD2 · GDPR · EU AI Act in mind.
 
-## Further business solution informaiton
-
-Further business documentation
+## Further business solution information
 
 Additional documentation, including solution requirements and business opportunities, has been approved by a Saïd Business School (University of Oxford) tutor and is available on request.
 For access or collaboration opportunities, please reach out via email: konrad.dro202@gmail.com.
