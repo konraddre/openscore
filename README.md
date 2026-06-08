@@ -32,4 +32,4 @@ Built with PSD2 · GDPR · EU AI Act in mind.
 ## Further business solution information
 
 Additional documentation, including solution requirements and business revenue opportunities, has been approved by a Saïd Business School (University of Oxford) tutor and is available on request.
-For access or collaboration opportunities, please reach out via email: konrad.dro202@gmail.com.
+For access or collaboration opportunities, please reach out via Linkedin: https://www.linkedin.com/in/konrad-dro/.
